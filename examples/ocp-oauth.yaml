@@ -11,7 +11,7 @@ spec:
 
   global:
     image:
-      repository: docker.io/argoproj/argocd@sha256:0a8fa1fee472568c2ec49dc1a71d3af56613b6b62353560a3682abc24492daee
+      repository: docker.io/argoproj/argocd@sha256:3332f525bd2e341e0a1d16f1e1b89c36ac2c9e3a7418b24efac6e68ad6bdf740
   #    tag: v1.6.1
       imagePullPolicy: IfNotPresent
     securityContext: {}
